@@ -126,6 +126,11 @@ p {
     gap: 15px;
     justify-content: center;
 }
+
+.btn:hover{
+    background: #5d03f9;
+}
+
 .btn2 {
     background: #080808;
     color:#ffffff ;
@@ -138,6 +143,9 @@ p {
     background: #2f704a;
   }
 
+.menu a:hover{ 
+    background: #e6f0ae;
+  }
 
 
  .notes {
